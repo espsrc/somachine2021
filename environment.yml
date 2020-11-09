@@ -1,0 +1,19 @@
+name: somachine
+channels:
+ - conda-forge
+ - defaults
+dependencies:
+  - python 3.7.*
+  - tensorflow
+  - contextlib2
+  - lxml
+  - cython
+  - pillow
+  - multiprocess
+  - opencv
+  - pytorch 1.2.*
+  - torchvision 0.4.*
+  - matplotlib 3.3.*
+  - numpy 1.19.*
+  - pandas 1.1.*
+  - scikit-learn 0.23.*
