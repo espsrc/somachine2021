@@ -3,17 +3,19 @@ channels:
  - conda-forge
  - defaults
 dependencies:
-  - python 3.7.*
-  - tensorflow
-  - contextlib2
-  - lxml
-  - cython
-  - pillow
-  - multiprocess
-  - opencv
-  - pytorch 1.2.*
-  - torchvision 0.4.*
-  - matplotlib 3.3.*
-  - numpy 1.19.*
-  - pandas 1.1.*
-  - scikit-learn 0.23.*
+  - python=3.7.8
+  - tensorflow=1.14.*
+  - contextlib2=0.6.*
+  - lxml=4.6.*
+  - cython=0.29.*
+  - pillow=8.0.*
+  - multiprocess=0.70.11.*
+  - opencv=4.5.*
+  - pytorch=1.2.*
+  - torchvision=0.4.*
+  - matplotlib=3.3.*
+  - numpy=1.19.*
+  - pandas=1.1.*
+  - scikit-learn=0.23.*
+  - libopencv=4.5.0
+  - py-opencv=4.5.0
