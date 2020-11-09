@@ -4,18 +4,18 @@ channels:
  - defaults
 dependencies:
   - python=3.7.8
-  - tensorflow=1.14.*
+  - tensorflow=1.15.0
   - contextlib2=0.6.*
-  - lxml=4.6.*
+  - lxml=4.5.*
   - cython=0.29.*
-  - pillow=8.0.*
-  - multiprocess=0.70.11.*
-  - opencv=4.5.*
+  - pillow=7.1.*
+  - multiprocess=0.70.*
+  - opencv=3.4.*
   - pytorch=1.2.*
   - torchvision=0.4.*
-  - matplotlib=3.3.*
-  - numpy=1.19.*
+  - matplotlib=3.1.*
+  - numpy=1.18.1
   - pandas=1.1.*
-  - scikit-learn=0.23.*
-  - libopencv=4.5.0
-  - py-opencv=4.5.0
+  - scikit-learn=0.22.*
+  - libopencv=3.4.2
+  - py-opencv=3.4.2
