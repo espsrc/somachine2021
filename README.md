@@ -1,6 +1,6 @@
 # SOMACHINE 2020
 ## Machine Learning, Big Data, and Deep Learning in Astronomy
------
+
 ### A Severo Ochoa School of the Instituto de Astrofísica de Andalucía (CSIC)
 
 ![SOMACHINE](tutorials/SOMACHINE_LOGOS.png)
