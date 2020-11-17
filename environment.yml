@@ -4,6 +4,8 @@ channels:
  - defaults
 dependencies:
   - python=3.7.8
+  - jupyter=1.0.0
+  - jupyterlab=2.2.9
   - tensorflow=1.15.0
   - contextlib2=0.6.*
   - lxml=4.5.*
