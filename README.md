@@ -8,7 +8,7 @@
 
 This repo hosts the conda environments and materials to be deployed at the spsrc.
 
-## Workshop materials
+## School materials
 
 - **Practical ML: Scikit-learn**  (Juan Antonio Cortés, UGR)
     - [Practical ML: Scikit-learn](tutorials/tutorial_01_ML/tutorial_01_ML.ipynb)
