@@ -6,7 +6,7 @@
 ![SOMACHINE](tutorials/SOMACHINE_LOGOS.png)
 
 
-This repo hosts the conda environments and materials to be deployed at the spsrc.
+This repository hosts the materials for the school and the conda environment needed to execute them.
 
 ## School materials
 
@@ -25,11 +25,13 @@ Interactive mybinder link to execute the python notebooks:
 
 or follow this [link](https://mybinder.org/v2/gh/spsrc/somachine2020/master?urlpath=lab/tree/tutorials/index.ipynb)
 
+[myBinder.org](myBinder.org) is a free and open organization providing free cloud resources. Therefore, the resources may be limited and the changes you make in the notebooks or the system are not persistent. Please, always keep a local copy of any file you want to keep, because Binder will automatically eliminate the virtual machine assigned to you after some time of inactivity.
+
 ## Execute the tutorials in your local machine
 
-We recommend using conda to manage the dependencies.
+### Install conda
 
-How to install miniconda if you don't have it already. More details [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html)
+We recommend using `conda` to manage the dependencies. Miniconda is a light-weight version of Anaconda. First we show how to install Miniconda if you don't have it already. More details [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html)
 
 Miniconda for Linux:
 ```bash
@@ -44,6 +46,15 @@ curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
 bash Miniconda3-latest-MacOSX-x86_64.sh
 rm Miniconda3-latest-MacOSX-x86_64.sh
 ```
+
+Note that the installation will suggest you to modify your bashrc so conda is always available, which is a good idea in general. Alternatively, if you want the Miniconda installation to be encapsulated in your working directory without affecting the rest of your system you can install it with the following option. The first command only needs to be done once, and the second one needs to be done everytime you open a new terminal. 
+
+```bash
+bash ./Miniconda3-latest-Linux-x86_64.sh -b -p my_conda_env
+source my_conda_env/etc/profile.d/conda.sh
+```
+
+### Get the contents of the school
 
 Download this repository and create conda environment with the dependencies
 ```bash
