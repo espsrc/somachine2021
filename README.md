@@ -11,11 +11,11 @@ This repository hosts the materials for the school and the conda environment nee
 ## School materials
 
 - **Practical ML: Scikit-learn**  (Juan Antonio Cortés, UGR)
-    - [Practical ML: Scikit-learn](tutorials/tutorial_01_ML/tutorial_01_ML.ipynb)
+    - [Practical ML: Scikit-learn (notebook)](tutorials/tutorial_01_ML/tutorial_01_ML.ipynb)
 - **Practical DL with Keras: A Quick Glance** (Alberto Castillo, UGR)
-   - [Practical Deep Learning_ A quick glance (slides)](tutorials/tutorial_04_DL_keras/Practical%20Deep%20Learning_%20A%20quick%20glance.pdf)
-   - [Data preparation](tutorials/tutorial_04_DL_keras/galaxy_data_preparation.ipynb)
-   - [Galaxy Classification](tutorials/tutorial_04_DL_keras/galaxy_classification.ipynb)
+   - [Practical Deep Learning_ A quick glance (pdf)](tutorials/tutorial_04_DL_keras/Practical%20Deep%20Learning_%20A%20quick%20glance.pdf)
+   - [Data preparation (notebook)](tutorials/tutorial_04_DL_keras/galaxy_data_preparation.ipynb)
+   - [Galaxy Classification (notebook)](tutorials/tutorial_04_DL_keras/galaxy_classification.ipynb)
 
 ## Execute the tutorials on the cloud
 
