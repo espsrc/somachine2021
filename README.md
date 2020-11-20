@@ -10,18 +10,21 @@ This repository hosts the materials for the school and the conda environment nee
 
 ## School materials
 
-- **Practical ML: Scikit-learn**  (Juan Antonio Cortés, UGR)
+- **Tutorial 01: Practical ML: Scikit-learn**  (Juan Antonio Cortés, UGR)
     - [Practical ML: Scikit-learn (notebook)](tutorials/tutorial_01_ML/tutorial_01_ML.ipynb)
-- **Big Data: Algorithms and Spark** (Diego García, UGR)
+- **Tutorials 02+03: Big Data: Algorithms and Spark, Data Analysis with Spark** (Diego García, UGR)
     - [Apache Spark installation (pdf)](tutorials/tutorial_02_BD_algorithms_spark/Apache%20Spark%20installation.pdf)
     - VM to be downloaded (see instructions) [link](https://drive.google.com/file/d/1RvOYHH58bNZZ_sbJ_s8xt7gNgkdHzAUr/view?usp=sharing)
-- **Big Data: Data Analysis with Spark** (Diego García, UGR)
-- **Practical DL with Keras: A Quick Glance** (Alberto Castillo, UGR)
+- **Tutorial 04: Practical DL with Keras: A Quick Glance** (Alberto Castillo, UGR)
    - [Practical Deep Learning_ A quick glance (pdf)](tutorials/tutorial_04_DL_keras/Practical%20Deep%20Learning_%20A%20quick%20glance.pdf)
    - [Data preparation (notebook)](tutorials/tutorial_04_DL_keras/galaxy_data_preparation.ipynb)
    - [Galaxy Classification (notebook)](tutorials/tutorial_04_DL_keras/galaxy_classification.ipynb)
 
-## Execute the tutorials on the cloud
+# Execution of the tutorials
+
+Tutorials 01 and 04 can be followed as Jupyter notebooks using python. Information below shows how to run those notebooks on cloud services or in your local machine. Tutorials 02 and 03 use Spark, which you can install in your machine (see instructions [here](tutorials/tutorial_02_BD_algorithms_spark/Apache%20Spark%20installation.pdf)) or can be executed using the Virtual Machine (VM) provided above.
+
+## Execute notebook tutorials on the cloud
 
 Interactive mybinder link to execute the python notebooks:
 
@@ -31,7 +34,7 @@ or follow this [link](https://mybinder.org/v2/gh/spsrc/somachine2020/master?urlp
 
 [myBinder.org](myBinder.org) is a free and open organization providing free cloud resources. Therefore, the resources may be limited and the changes you make in the notebooks or the system are not persistent. Please, always keep a local copy of any file you want to keep, because Binder will automatically eliminate the virtual machine assigned to you after some time of inactivity.
 
-## Execute the tutorials in your local machine
+## Execute notebook tutorials in your local machine
 
 ### Install conda
 
