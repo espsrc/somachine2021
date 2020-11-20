@@ -14,6 +14,7 @@ This repository hosts the materials for the school and the conda environment nee
     - [Practical ML: Scikit-learn (notebook)](tutorials/tutorial_01_ML/tutorial_01_ML.ipynb)
 - **Big Data: Algorithms and Spark** (Diego García, UGR)
     - [Apache Spark installation (pdf)](tutorials/tutorial_02_BD_algorithms_spark/Apache%20Spark%20installation.pdf)
+    - VM to be downloaded (see instructions) [link](https://drive.google.com/file/d/1RvOYHH58bNZZ_sbJ_s8xt7gNgkdHzAUr/view?usp=sharing)
 - **Big Data: Data Analysis with Spark** (Diego García, UGR)
 - **Practical DL with Keras: A Quick Glance** (Alberto Castillo, UGR)
    - [Practical Deep Learning_ A quick glance (pdf)](tutorials/tutorial_04_DL_keras/Practical%20Deep%20Learning_%20A%20quick%20glance.pdf)
