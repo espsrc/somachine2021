@@ -10,15 +10,37 @@ This repository hosts the materials for the school and the conda environment nee
 
 ## School materials
 
+### Tutorials
 - **Tutorial 01: Practical ML: Scikit-learn**  (Juan Antonio Cortés, UGR)
     - [Practical ML: Scikit-learn (notebook)](tutorials/tutorial_01_ML/tutorial_01_ML.ipynb)
 - **Tutorials 02+03: Big Data: Algorithms and Spark, Data Analysis with Spark** (Diego García, UGR)
     - [Apache Spark installation (pdf)](tutorials/tutorial_02_BD_spark/Apache%20Spark%20installation.pdf)
     - VM to be downloaded (see instructions) [link](https://drive.google.com/file/d/1RvOYHH58bNZZ_sbJ_s8xt7gNgkdHzAUr/view?usp=sharing)
 - **Tutorial 04: Practical DL with Keras: A Quick Glance** (Alberto Castillo, UGR)
-   - [Practical Deep Learning_ A quick glance (pdf)](tutorials/tutorial_04_DL_keras/Practical%20Deep%20Learning_%20A%20quick%20glance.pdf)
+   - [Practical Deep Learning: A quick glance (pdf)](tutorials/tutorial_04_DL_keras/Practical%20Deep%20Learning_%20A%20quick%20glance.pdf)
    - [Data preparation (notebook)](tutorials/tutorial_04_DL_keras/galaxy_data_preparation.ipynb)
    - [Galaxy Classification (notebook)](tutorials/tutorial_04_DL_keras/galaxy_classification.ipynb)
+
+### Talks
+- Placing AI and ML in Context - Francisco Herrera, UGR
+- Theoretical Foundations of ML: Classical Problems, Algorithms and Validation - Salvador García, UGR
+- Data Preprocessing in ML - Julián Luengo, UGR
+- Singular Problems in ML - Salvador García, UGR
+- ML in Astronomy: An Overview - Kyle Boone, University of Washington
+- Galaxy classification in surveys - M. Huertas-Company, Université Paris Diderot - Observatoire de Paris - IAC
+- Big Data: Foundations and Frameworks - Alberto Fernández, UGR
+- Big Data: Algorithms and Spark (Theoretical and Practical) - Diego García, UGR
+- BD in Astronomy: An Overview - Federica Bianco, University of Delaware
+- Vera C. Rubin Observatory: A Big Data Machine for the 21st Century - Wil O'Mullane, Rubin Observatory 
+- Theoretical Foundations of DL and CNNs - Anabel Gómez, UGR
+- Autoencoders: An Overview and Applications - David Charte, UGR
+- Successful case studies of DL - Siham Tabik, UGR
+- An Overview of Deep Learning in Astronomy - Ashish Mahabal, Caltech
+- The SKA Telescope Data Deluge	- Javier Moldón, IAA
+- The SKA Telescope Data Challenges - Anna Bonaldi, SKAO 
+- Emulators and their application to supernova data	- Wolfgang Kerzendorf, Michigan State University
+- Deep Learning and Image Reconstruction - Andrés Asensio, IAC
+
 
 # Execution of the tutorials
 
