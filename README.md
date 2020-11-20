@@ -5,8 +5,9 @@
 
 ![SOMACHINE](tutorials/SOMACHINE_LOGOS.png)
 
+This repository hosts the materials for the school and instructions on how to run the tutorials. It also contains a conda environment needed to execute the python notebooks, either locally or in a cloud platform.
 
-This repository hosts the materials for the school and the conda environment needed to execute them.
+The main web page of the school is [https://www.granadacongresos.com/somachine2020](https://www.granadacongresos.com/somachine2020?). It contains general information, the schedule and registration information can be found at 
 
 ## School materials
 
