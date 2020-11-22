@@ -5,13 +5,24 @@
 
 ![SOMACHINE](tutorials/SOMACHINE_LOGOS.png)
 
+- [School materials](#school-materials)
+  * [Tutorials](#tutorials)
+  * [Talks](#talks)
+- [Execution of the tutorials](#execution-of-the-tutorials)
+  * [Option 1. Execute notebook tutorials on the cloud](#option-1-execute-notebook-tutorials-on-the-cloud)
+  * [Option 2. Execute notebook tutorials in the JupyterHub instance at IAA-CSIC](#option-2-execute-notebook-tutorials-in-the-jupyterhub-instance-at-iaa-csic)
+  * [Option 3. Execute notebook tutorials in your local machine](#option-3-execute-notebook-tutorials-in-your-local-machine)
+    + [Install conda](#install-conda)
+    + [Get the contents of the school](#get-the-contents-of-the-school)
+- [Credits and acknowledgements](#credits-and-acknowledgements)
+
 This repository hosts the materials for the school and instructions on how to run the tutorials. It also contains a conda environment needed to execute the python notebooks, either locally or in a cloud platform.
 
 The main web page of the school is [https://www.granadacongresos.com/somachine2020](https://www.granadacongresos.com/somachine2020?). It contains general information, the schedule and registration information can be found at 
 
-## School materials
+# School materials
 
-### Tutorials
+## Tutorials
 - **Tutorial 01: Practical ML: Scikit-learn**  (Juan Antonio Cortés, UGR)
     - [Practical ML: Scikit-learn (notebook)](tutorials/tutorial_01_ML/tutorial_01_ML.ipynb)
 - **Tutorials 02+03: Big Data: Algorithms and Spark, Data Analysis with Spark** (Diego García, UGR)
@@ -22,7 +33,7 @@ The main web page of the school is [https://www.granadacongresos.com/somachine20
    - [Data preparation (notebook)](tutorials/tutorial_04_DL_keras/galaxy_data_preparation.ipynb)
    - [Galaxy Classification (notebook)](tutorials/tutorial_04_DL_keras/galaxy_classification.ipynb)
 
-### Talks
+## Talks
 - Placing AI and ML in Context - Francisco Herrera, UGR
 - Theoretical Foundations of ML: Classical Problems, Algorithms and Validation - Salvador García, UGR
 - Data Preprocessing in ML - Julián Luengo, UGR
@@ -47,7 +58,14 @@ The main web page of the school is [https://www.granadacongresos.com/somachine20
 
 Tutorials 01 and 04 can be followed as Jupyter notebooks using python. Information below shows how to run those notebooks on cloud services or in your local machine. Tutorials 02 and 03 use Spark, which you can install in your machine (see instructions [here](tutorials/tutorial_02_BD_algorithms_spark/Apache%20Spark%20installation.pdf)) or can be executed using the Virtual Machine (VM) provided above.
 
-## Execute notebook tutorials on the cloud
+There are three options to execute the Jupyter notebook tutorials using python (01 and 04). Choose whatever suits you more:
+
+- Execute tutorials on the cloud using myBinder. A temporary virtual machine will be created in myBinder.org containing a Jupyter Lab and the corresponding notebooks. No user access required, just follow the link. This service is temporary, so nothing stored here will persist, and the machine will be removed automatically and without warning after some time of inactivity.
+- Execute tutorials on JupyterHub instance at IAA-CSIC. Similar to first option, but the virtual machines will be served by Jupyter Hub deployed on the host institution (IAA). You need to login to your dedicated machine (see below for credentials) and the Jupyter instance will be available for two weeks from the start of the school. Your progress will be stored and can be retrieved every time you access the service. You can use this service to experiment and work on your own files.
+- Use your own machine. This repository contains a conda environment to help you install all the required software.
+
+
+## Option 1. Execute notebook tutorials on the cloud
 
 Interactive mybinder link to execute the python notebooks:
 
@@ -57,17 +75,17 @@ or follow this [link](https://mybinder.org/v2/gh/spsrc/somachine2020/master?urlp
 
 [myBinder.org](myBinder.org) is a free and open organization providing free cloud resources. Therefore, the resources may be limited and the changes you make in the notebooks or the system are not persistent. Please, always keep a local copy of any file you want to keep, because Binder will automatically eliminate the virtual machine assigned to you after some time of inactivity.
 
-## Execute notebook tutorials in the JupyterHub instance at IAA-CSIC
+## Option 2. Execute notebook tutorials in the JupyterHub instance at IAA-CSIC
 
 The [IAA-CSIC Severo Ochoa Center](http://so.iaa.csic.es/) provides a prototype JupyterHub instance available here:
 
 https://spsrc-jupyter.iaa.csic.es
 
-Login with `yourname.surname1.surname2` and the passworkd is your date of birth.
+Login with user: `firstname.lastname`, password: `lastname`.
 
-The main difference with [myBinder.org](myBinder.org) is that this instance offers persistent storage throughout the duration of the school. However, all users will be cleaned up one week after the school is over.
+It will take some minutes to create the instance (especially the first time you access). Contrary to option 1, these instances offer persistent storage throughout the duration of the school. All virtual machines and their contents will be removed by December, 6, 2020.
 
-## Execute notebook tutorials in your local machine
+## Option 3. Execute notebook tutorials in your local machine
 
 ### Install conda
 
@@ -109,3 +127,8 @@ If you want to use Jupyer Lab:
 conda install -c conda-forge jupyterlab
 jupyter lab
 ```
+
+
+# Credits and acknowledgements
+
+This repository and the Jupyter Hub service for the tutorials are provided by the SKA Regional Centre Prototype, which is funded by the State Agency for Research of the Spanish MCIU through the "Center of Excellence Severo Ochoa"; award to the Instituto de Astrofísica de Andalucía (SEV-2017-0709), the European Regional Development Funds (EQC2019-005707-P), by the Junta de Andalucía (SOMM17_5208_IAA), project RTI2018-096228-B-C31(MCIU/AEI/FEDER,UE) and PTA2018-015980-I.
