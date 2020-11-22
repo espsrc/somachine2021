@@ -57,6 +57,16 @@ or follow this [link](https://mybinder.org/v2/gh/spsrc/somachine2020/master?urlp
 
 [myBinder.org](myBinder.org) is a free and open organization providing free cloud resources. Therefore, the resources may be limited and the changes you make in the notebooks or the system are not persistent. Please, always keep a local copy of any file you want to keep, because Binder will automatically eliminate the virtual machine assigned to you after some time of inactivity.
 
+## Execute notebook tutorials in the JupyterHub instance at IAA-CSIC
+
+The [IAA-CSIC Severo Ochoa Center](http://so.iaa.csic.es/) provides a prototype JupyterHub instance available here:
+
+https://spsrc-jupyter.iaa.csic.es
+
+Login with `yourname.surname1.surname2` and the passworkd is your date of birth.
+
+The main difference with [myBinder.org](myBinder.org) is that this instance offers persistent storage throughout the duration of the school. However, all users will be cleaned up one week after the school is over.
+
 ## Execute notebook tutorials in your local machine
 
 ### Install conda
