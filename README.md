@@ -28,7 +28,7 @@ The main web page of the school is [https://www.granadacongresos.com/somachine20
 - **Tutorials 02+03: Big Data: Algorithms and Spark, Data Analysis with Spark** (Diego García, UGR)
     - [Apache Spark installation (pdf)](tutorials/tutorial_02_BD_spark/Apache%20Spark%20installation.pdf)
     - VM to be downloaded (see instructions) [link](https://drive.google.com/file/d/1RvOYHH58bNZZ_sbJ_s8xt7gNgkdHzAUr/view?usp=sharing)
-- **Tutorial 04: Practical DL with Keras: A Quick Glance** (Alberto Castillo, UGR)
+- **Tutorial 04: Practical DL with Keras TensorFlow and PyTorch: A Quick Glance** (Alberto Castillo, UGR)
    - [Practical Deep Learning: A quick glance (pdf)](tutorials/tutorial_04_DL_keras/Practical%20Deep%20Learning_%20A%20quick%20glance.pdf)
    - [Data preparation (notebook)](tutorials/tutorial_04_DL_keras/galaxy_data_preparation.ipynb)
    - [Galaxy Classification (notebook)](tutorials/tutorial_04_DL_keras/galaxy_classification.ipynb)
