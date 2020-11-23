@@ -89,6 +89,8 @@ A lightweight desktop is also available, you can access it immediately by changi
 
 Contrary to option 1, these instances offer persistent storage throughout the duration of the school. All virtual machines and their contents will be removed by December, 6, 2020.
 
+In case of problems using this JupyterHub instance please file an issue at https://github.com/spsrc/somachine2020/issues
+
 ## Option 3. Execute notebook tutorials in your local machine
 
 ### Install conda
