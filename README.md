@@ -34,7 +34,7 @@ The main web page of the school is [https://www.granadacongresos.com/somachine20
    - [Galaxy Classification (notebook)](tutorials/tutorial_04_DL_keras/galaxy_classification.ipynb)
 
 ## Talks
-- Placing AI and ML in Context - Francisco Herrera, UGR
+- [Placing AI and ML in Context - Francisco Herrera, UGR](talks/AI-Perspective-personal-F-HERRERA.pdf)
 - Theoretical Foundations of ML: Classical Problems, Algorithms and Validation - Salvador García, UGR
 - Data Preprocessing in ML - Julián Luengo, UGR
 - Singular Problems in ML - Salvador García, UGR
