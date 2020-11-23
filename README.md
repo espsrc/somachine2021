@@ -56,7 +56,7 @@ The main web page of the school is [https://www.granadacongresos.com/somachine20
 
 # Execution of the tutorials
 
-Tutorials 01 and 04 can be followed as Jupyter notebooks using python. Information below shows how to run those notebooks on cloud services or in your local machine. Tutorials 02 and 03 use Spark, which you can install in your machine (see instructions [here](tutorials/tutorial_02_BD_algorithms_spark/Apache%20Spark%20installation.pdf)) or can be executed using the Virtual Machine (VM) provided above.
+Tutorials 01 and 04 can be followed as Jupyter notebooks using python. Information below shows how to run those notebooks on cloud services or in your local machine. Tutorials 02 and 03 use Spark, which you can install in your machine (see instructions [here](tutorials/tutorial_02_BD_spark/Apache%20Spark%20installation.pdf)) or can be executed using the Virtual Machine (VM) provided above.
 
 There are three options to execute the Jupyter notebook tutorials using python (01 and 04). Choose whatever suits you more:
 
