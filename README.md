@@ -42,7 +42,7 @@ The main web page of the school is [https://www.granadacongresos.com/somachine20
 - [Singular Problems in ML - Salvador García, UGR](talks/singular_problems_ML_GARCIA.pdf)
 - ML in Astronomy: An Overview - Kyle Boone, University of Washington
 - Galaxy classification in surveys - M. Huertas-Company, Université Paris Diderot - Observatoire de Paris - IAC
-- Big Data: Foundations and Frameworks - Alberto Fernández, UGR
+- [Big Data: Foundations and Frameworks - Alberto Fernández, UGR](talks/big_data_foundations_frameworks_FERNANDEZ.pdf)
 - Big Data: Algorithms and Spark (Theoretical and Practical) - Diego García, UGR
 - BD in Astronomy: An Overview - Federica Bianco, University of Delaware
 - [Vera C. Rubin Observatory: A Big Data Machine for the 21st Century - William O'Mullane, Rubin Observatory](talks/Vera_Rubin_observatory_Mullane.pdf) - [or on google ](https://docs.google.com/presentation/d/1v5Q57hiT0GZh_hSJ1m8T75QeDq1NhMZj00byOXKu23s/edit?usp=sharing)
