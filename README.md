@@ -84,6 +84,8 @@ https://spsrc-jupyter.iaa.csic.es:18019
 
 Login with user: `firstname.lastname`, password: `lastname`.
 
+**Warning: due to an scheduled downtime to replace the [UPS](https://en.wikipedia.org/wiki/Uninterruptible_power_supply) at the IAA-CSIC this JupyterHub instance won't be available on 25th Nov 2020. There is no estimated duration of the downtime and we will make it available as soon as the power supply is restored in the data centre.**
+
 It will take some minutes to create the instance (especially the first time you access). You can access your instance in `https://spsrc-jupyter.iaa.csic.es/user/<username>/lab/` and you can start by using the navigation bar on the left to open the file `somachine2020/tutorials/index.ipynb`.
 
 A lightweight desktop is also available, you can access it immediately by changing `lab` to `desktop` in the path. For example go to: `https://spsrc-jupyter.iaa.csic.es/user/<username>/desktop/` and you will have a desktop environment with graphical interface in your browser.
