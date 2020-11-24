@@ -53,6 +53,7 @@ The main web page of the school is [https://www.granadacongresos.com/somachine20
 - Emulators and their application to supernova data	- Wolfgang Kerzendorf, Michigan State University
 - Deep Learning and Image Reconstruction - Andrés Asensio, IAC
 
+Recording of the talks are available at http://u.pc.cd/OfirtalK
 
 # Execution of the tutorials
 
