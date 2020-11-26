@@ -48,7 +48,7 @@ The main web page of the school is [https://www.granadacongresos.com/somachine20
 - [Vera C. Rubin Observatory: A Big Data Machine for the 21st Century - William O'Mullane, Rubin Observatory](talks/Vera_Rubin_observatory_Mullane.pdf) - [or on google ](https://docs.google.com/presentation/d/1v5Q57hiT0GZh_hSJ1m8T75QeDq1NhMZj00byOXKu23s/edit?usp=sharing)
 - [Theoretical Foundations of DL and CNNs - Anabel Gómez, UGR](talks/deep_learning_convolutional_networks_GOMEZ.pdf)
 - Autoencoders: An Overview and Applications - David Charte, UGR
-- Successful case studies of DL - Siham Tabik, UGR
+- [Successful case studies of DL - Siham Tabik, UGR](talks/successful_case_studies_DL_TABIK.pdf)
 - An Overview of Deep Learning in Astronomy - Ashish Mahabal, Caltech
 - The SKA Telescope Data Deluge	- Javier Moldón, IAA
 - The SKA Telescope Data Challenges - Anna Bonaldi, SKAO 
