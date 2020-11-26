@@ -44,7 +44,7 @@ The main web page of the school is [https://www.granadacongresos.com/somachine20
 - Galaxy classification in surveys - M. Huertas-Company, Université Paris Diderot - Observatoire de Paris - IAC
 - [Big Data: Foundations and Frameworks - Alberto Fernández, UGR](talks/big_data_foundations_frameworks_FERNANDEZ.pdf)
 - [Big Data: Algorithms and Spark (Theoretical and Practical) - Diego García, UGR](talks/big_data_apache_spark_GARCIA.pdf)
-- BD in Astronomy: An Overview - Federica Bianco, University of Delaware
+- [BD in Astronomy: An Overview - Federica Bianco, University of Delaware](talks/big_data_in_astronomy_BIANCO.pdf)
 - [Vera C. Rubin Observatory: A Big Data Machine for the 21st Century - William O'Mullane, Rubin Observatory](talks/Vera_Rubin_observatory_Mullane.pdf) - [or on google ](https://docs.google.com/presentation/d/1v5Q57hiT0GZh_hSJ1m8T75QeDq1NhMZj00byOXKu23s/edit?usp=sharing)
 - [Theoretical Foundations of DL and CNNs - Anabel Gómez, UGR](talks/deep_learning_convolutional_networks_GOMEZ.pdf)
 - Autoencoders: An Overview and Applications - David Charte, UGR
@@ -86,13 +86,11 @@ https://spsrc-jupyter.iaa.csic.es:18019
 
 Login with user: `firstname.lastname`, password: `lastname`.
 
-**Warning: due to an scheduled downtime to replace the [UPS](https://en.wikipedia.org/wiki/Uninterruptible_power_supply) at the IAA-CSIC this JupyterHub instance won't be available on 25th Nov 2020. There is no estimated duration of the downtime and we will make it available as soon as the power supply is restored in the data centre.**
-
 It will take some minutes to create the instance (especially the first time you access). You can access your instance in `https://spsrc-jupyter.iaa.csic.es/user/<username>/lab/` and you can start by using the navigation bar on the left to open the file `somachine2020/tutorials/index.ipynb`.
 
 A lightweight desktop is also available, you can access it immediately by changing `lab` to `desktop` in the path. For example go to: `https://spsrc-jupyter.iaa.csic.es/user/<username>/desktop/` and you will have a desktop environment with graphical interface in your browser.
 
-Contrary to option 1, these instances offer persistent storage throughout the duration of the school. All virtual machines and their contents will be removed by December, 6, 2020.
+Contrary to option 1, these instances offer persistent storage throughout the duration of the school. **All virtual machines and their contents will be removed by December, 6, 2020.**
 
 In case of problems using this JupyterHub instance please file an issue at https://github.com/spsrc/somachine2020/issues
 
