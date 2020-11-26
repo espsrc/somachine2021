@@ -46,7 +46,7 @@ The main web page of the school is [https://www.granadacongresos.com/somachine20
 - [Big Data: Algorithms and Spark (Theoretical and Practical) - Diego García, UGR](talks/big_data_apache_spark_GARCIA.pdf)
 - BD in Astronomy: An Overview - Federica Bianco, University of Delaware
 - [Vera C. Rubin Observatory: A Big Data Machine for the 21st Century - William O'Mullane, Rubin Observatory](talks/Vera_Rubin_observatory_Mullane.pdf) - [or on google ](https://docs.google.com/presentation/d/1v5Q57hiT0GZh_hSJ1m8T75QeDq1NhMZj00byOXKu23s/edit?usp=sharing)
-- Theoretical Foundations of DL and CNNs - Anabel Gómez, UGR
+- [Theoretical Foundations of DL and CNNs - Anabel Gómez, UGR](talks/deep_learning_convolutional_networks_GOMEZ.pdf)
 - Autoencoders: An Overview and Applications - David Charte, UGR
 - Successful case studies of DL - Siham Tabik, UGR
 - An Overview of Deep Learning in Astronomy - Ashish Mahabal, Caltech
