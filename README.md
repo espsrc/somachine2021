@@ -50,7 +50,7 @@ The main web page of the school is [https://www.granadacongresos.com/somachine20
 - Autoencoders: An Overview and Applications - David Charte, UGR
 - [Successful case studies of DL - Siham Tabik, UGR](talks/successful_case_studies_DL_TABIK.pdf)
 - An Overview of Deep Learning in Astronomy - Ashish Mahabal, Caltech
-- The SKA Telescope Data Deluge	- Javier Moldón, IAA
+- [The SKA Telescope Data Deluge - Javier Moldón, IAA](talks/ska_data_deluge_MOLDON.pdf)
 - The SKA Telescope Data Challenges - Anna Bonaldi, SKAO 
 - Emulators and their application to supernova data	- Wolfgang Kerzendorf, Michigan State University
 - Deep Learning and Image Reconstruction - Andrés Asensio, IAC
