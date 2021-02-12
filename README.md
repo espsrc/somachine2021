@@ -82,7 +82,7 @@ or follow this [link](https://mybinder.org/v2/gh/spsrc/somachine2020/master?urlp
 
 The [IAA-CSIC Severo Ochoa Center](http://so.iaa.csic.es/) provides a prototype JupyterHub instance available here:
 
-https://spsrc-jupyter.iaa.csic.es:18019
+[https://spsrc-jupyter.iaa.csic.es/somachine/](https://spsrc-jupyter.iaa.csic.es/somachine/)
 
 Login with user: `firstname.lastname`, password: `lastname`.
 
