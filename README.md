@@ -1,4 +1,4 @@
-# SOMACHINE 2020
+# SOMACHINE 2021
 ## Machine Learning, Big Data, and Deep Learning in Astronomy
 
 ### A Severo Ochoa School of the Instituto de Astrofísica de Andalucía (CSIC)
@@ -18,50 +18,51 @@
 
 This repository hosts the materials for the school and instructions on how to run the tutorials. It also contains a conda environment needed to execute the python notebooks, either locally or in a cloud platform.
 
-The main web page of the school is [https://www.granadacongresos.com/somachine2020](https://www.granadacongresos.com/somachine2020?). It contains general information, the schedule and registration information can be found at 
-
+The main web page of the school is [https://www.granadacongresos.com/somachine2021](https://www.granadacongresos.com/somachine2021). It contains general information, registration, topics, tutors and the daily schedule. 
 # School materials
 
 ## Tutorials
-- **Tutorial 01: Practical ML: Scikit-learn**  (Juan Antonio Cortés, UGR)
-    - [Practical ML: Scikit-learn (notebook)](tutorials/tutorial_01_ML/tutorial_01_ML.ipynb)
-- **Tutorials 02+03: Big Data: Algorithms and Spark, Data Analysis with Spark** (Diego García, UGR)
-    - [Apache Spark installation (pdf)](tutorials/tutorial_02_BD_spark/Apache%20Spark%20installation.pdf)
+- **Tutorial 01+02: Practical ML: Scikit-learn**  (Juan Antonio Cortés, UGR)
+    - [Practical ML: Introduction to Scikit-learn (notebook)](tutorials/tutorial_01_ML/tutorial_01_ML.ipynb)
+    - [Practical ML: Classical Problems with Scikit-learn (notebook)]
+- **Tutorials 03+04: Big Data: Algorithms and Spark, Data Analysis with Spark** (Diego García, UGR)
+    - [Apache Spark installation (pdf)](tutorials/tutorial_03_BD_spark/Apache%20Spark%20installation.pdf)
     - VM to be downloaded [link](https://drive.google.com/file/d/1RvOYHH58bNZZ_sbJ_s8xt7gNgkdHzAUr/view?usp=sharing) (password: `somachine20`) 
-    - [Data](tutorials/tutorial_02_BD_spark/datasets.zip)
-    - [Scala scripts](tutorials/tutorial_02_BD_spark/Scripts/)
-- **Tutorial 04: Practical DL with Keras TensorFlow and PyTorch: A Quick Glance** (Alberto Castillo, UGR)
-   - [Practical Deep Learning: A quick glance (pdf)](tutorials/tutorial_04_DL_keras/Practical%20Deep%20Learning_%20A%20quick%20glance.pdf)
-   - [Data preparation (notebook)](tutorials/tutorial_04_DL_keras/galaxy_data_preparation.ipynb)
-   - [Galaxy Classification (notebook)](tutorials/tutorial_04_DL_keras/galaxy_classification.ipynb)
+    - [Data](tutorials/tutorial_03_BD_spark/datasets.zip)
+    - [Scala scripts](tutorials/tutorial_03_BD_spark/Scripts/)
+- **Tutorial 05: Practical DL with Keras: A Quick Glance** (Francisco Pérez, UGR)
+   - [Practical Deep Learning: A quick glance (pdf)](tutorials/tutorial_05_DL_keras/Practical%20Deep%20Learning_%20A%20quick%20glance.pdf)
+   - [Data preparation (notebook)](tutorials/tutorial_05_DL_keras/galaxy_data_preparation.ipynb)
+   - [Galaxy Classification (notebook)](tutorials/tutorial_05_DL_keras/galaxy_classification.ipynb)
 
 ## Talks
-- [Placing AI and ML in Context - Francisco Herrera, UGR](talks/AI-Perspective-personal-F-HERRERA.pdf)
-- [Theoretical Foundations of ML: Classical Problems, Algorithms and Validation - Salvador García, UGR](talks/theoretical_foundations_ML_GARCIA.pdf)
+- [Placing AI and ML in Context - Jorge Casillas, UGR](talks/AI-Perspective-personal-F-HERRERA.pdf)
+- [Theoretical Foundations of ML: Classical Problems, Algorithms and Validation - Julián Luengo, UGR](talks/theoretical_foundations_ML_GARCIA.pdf)
 - [Data Preprocessing in ML - Julián Luengo, UGR](talks/data_preprocessing_ML_LUENGO.pdf)
 - [Singular Problems in ML - Salvador García, UGR](talks/singular_problems_ML_GARCIA.pdf)
 - ML in Astronomy: An Overview - Kyle Boone, University of Washington
-- Galaxy classification in surveys - M. Huertas-Company, Université Paris Diderot - Observatoire de Paris - IAC
+- Galaxy classification in surveys - Helena Domínguez Sánchez, ICE-CSIC
 - [Big Data: Foundations and Frameworks - Alberto Fernández, UGR](talks/big_data_foundations_frameworks_FERNANDEZ.pdf)
 - [Big Data: Algorithms and Spark (Theoretical and Practical) - Diego García, UGR](talks/big_data_apache_spark_GARCIA.pdf)
 - [BD in Astronomy: An Overview - Federica Bianco, University of Delaware](talks/big_data_in_astronomy_BIANCO.pdf)
-- [Vera C. Rubin Observatory: A Big Data Machine for the 21st Century - William O'Mullane, Rubin Observatory](talks/Vera_Rubin_observatory_Mullane.pdf) - [or on google ](https://docs.google.com/presentation/d/1v5Q57hiT0GZh_hSJ1m8T75QeDq1NhMZj00byOXKu23s/edit?usp=sharing)
+- [Vera C. Rubin Observatory: A Big Data Machine for the 21st Century - Meredith Rawls, Vera Rubin Observatory](talks/Vera_Rubin_observatory_Mullane.pdf) - [or on google ](https://docs.google.com/presentation/d/1v5Q57hiT0GZh_hSJ1m8T75QeDq1NhMZj00byOXKu23s/edit?usp=sharing)
 - [Theoretical Foundations of DL and CNNs - Anabel Gómez, UGR](talks/deep_learning_convolutional_networks_GOMEZ.pdf)
 - [Autoencoders: An Overview and Applications - David Charte, UGR](talks/autoencoders_overview_applications_CHARTE.pdf)
 - [Successful case studies of DL - Siham Tabik, UGR](talks/successful_case_studies_DL_TABIK.pdf)
-- [An Overview of Deep Learning in Astronomy - Ashish Mahabal, Caltech](talks/deep_learning_astronomy_MAHABAL.pdf)
+- [An Overview of Deep Learning in Astronomy - Ashish Mahabal, Caltech](talks/deep_learning_astronomy_MAHABAL.pdf)++++++++
+- Emulators and their application to supernova data	- Wolfgang Kerzendorf, Michigan State University
 - [The SKA Telescope Data Deluge - Javier Moldón, IAA](talks/ska_data_deluge_MOLDON.pdf)
 - The SKA Telescope Data Challenges - Anna Bonaldi, SKAO 
-- Emulators and their application to supernova data	- Wolfgang Kerzendorf, Michigan State University
+- Applications of unsupervised learning to astronomical datasets - Dalya Baron, Tel Aviv University
 - Deep Learning and Image Reconstruction - Andrés Asensio, IAC
 
-Recordings of the talks are available at http://u.pc.cd/OfirtalK
+Recordings of the talks will be available. 
 
 # Execution of the tutorials
 
-Tutorials 01 and 04 can be followed as Jupyter notebooks using python. Information below shows how to run those notebooks on cloud services or in your local machine. Tutorials 02 and 03 use Spark, which you can install in your machine (see instructions [here](tutorials/tutorial_02_BD_spark/Apache%20Spark%20installation.pdf)) or can be executed using the Virtual Machine (VM) provided above.
+Tutorials 01, 02 and 05 can be followed as Jupyter notebooks using python. Information below shows how to run those notebooks on cloud services or in your local machine. Tutorials 03 and 04 use Spark, which you can install in your machine (see instructions [here](tutorials/tutorial_03_BD_spark/Apache%20Spark%20installation.pdf)) or can be executed using the Virtual Machine (VM) provided above.
 
-There are three options to execute the Jupyter notebook tutorials using python (01 and 04). Choose whatever suits you more:
+There are three options to execute the Jupyter notebook tutorials using python (01, 02 and 05). Choose whatever suits you more:
 
 - Execute tutorials on the cloud using myBinder. A temporary virtual machine will be created in myBinder.org containing a Jupyter Lab and the corresponding notebooks. No user access required, just follow the link. This service is temporary, so nothing stored here will persist, and the machine will be removed automatically and without warning after some time of inactivity.
 - Execute tutorials on JupyterHub instance at IAA-CSIC. Similar to first option, but the virtual machines will be served by Jupyter Hub deployed on the host institution (IAA). You need to login to your dedicated machine (see below for credentials) and the Jupyter instance will be available for two weeks from the start of the school. Your progress will be stored and can be retrieved every time you access the service. You can use this service to experiment and work on your own files.
@@ -86,13 +87,13 @@ The [IAA-CSIC Severo Ochoa Center](http://so.iaa.csic.es/) provides a prototype 
 
 Login with user: `firstname.lastname`, password: `lastname`.
 
-It will take some minutes to create the instance (especially the first time you access). You can access your instance in `https://spsrc-jupyter.iaa.csic.es/user/<username>/lab/` and you can start by using the navigation bar on the left to open the file `somachine2020/tutorials/index.ipynb`.
+It will take some minutes to create the instance (especially the first time you access). You can access your instance in `https://spsrc-jupyter.iaa.csic.es/user/<username>/lab/` and you can start by using the navigation bar on the left to open the file `somachine2021/tutorials/index.ipynb`.
 
 A lightweight desktop is also available, you can access it immediately by changing `lab` to `desktop` in the path. For example go to: `https://spsrc-jupyter.iaa.csic.es/user/<username>/desktop/` and you will have a desktop environment with graphical interface in your browser.
 
-Contrary to option 1, these instances offer persistent storage throughout the duration of the school. **All virtual machines and their contents will be removed by December, 6, 2020.**
+Contrary to option 1, these instances offer persistent storage throughout the duration of the school. **All virtual machines and their contents will be removed by the 2nd of May, 2021.**
 
-In case of problems using this JupyterHub instance please file an issue at https://github.com/spsrc/somachine2020/issues
+In case of problems using this JupyterHub instance please file an issue at https://github.com/spsrc/somachine2021/issues
 
 ## Option 3. Execute notebook tutorials in your local machine
 
