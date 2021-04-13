@@ -24,7 +24,7 @@ The main web page of the school is [https://www.granadacongresos.com/somachine20
 ## Tutorials
 - **Tutorial 01+02: Practical ML: Scikit-learn**  (Juan Antonio Cortés, UGR)
     - [Practical ML: Introduction to Scikit-learn (notebook)](tutorials/tutorial_01_ML/tutorial_01_ML.ipynb)
-    - [Practical ML: Classical Problems with Scikit-learn (notebook)]
+    - Practical ML: Classical Problems with Scikit-learn (notebook)
 - **Tutorials 03+04: Big Data: Algorithms and Spark, Data Analysis with Spark** (Diego García, UGR)
     - [Apache Spark installation (pdf)](tutorials/tutorial_03_BD_spark/Apache%20Spark%20installation.pdf)
     - VM to be downloaded [link](https://drive.google.com/file/d/1RvOYHH58bNZZ_sbJ_s8xt7gNgkdHzAUr/view?usp=sharing) (password: `somachine20`) 
