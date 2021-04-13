@@ -49,7 +49,7 @@ The main web page of the school is [https://www.granadacongresos.com/somachine20
 - [Theoretical Foundations of DL and CNNs - Anabel Gómez, UGR](talks/deep_learning_convolutional_networks_GOMEZ.pdf)
 - [Autoencoders: An Overview and Applications - David Charte, UGR](talks/autoencoders_overview_applications_CHARTE.pdf)
 - [Successful case studies of DL - Siham Tabik, UGR](talks/successful_case_studies_DL_TABIK.pdf)
-- [An Overview of Deep Learning in Astronomy - Ashish Mahabal, Caltech](talks/deep_learning_astronomy_MAHABAL.pdf)++++++++
+- [An Overview of Deep Learning in Astronomy - Ashish Mahabal, Caltech](talks/deep_learning_astronomy_MAHABAL.pdf)
 - Emulators and their application to supernova data	- Wolfgang Kerzendorf, Michigan State University
 - [The SKA Telescope Data Deluge - Javier Moldón, IAA](talks/ska_data_deluge_MOLDON.pdf)
 - The SKA Telescope Data Challenges - Anna Bonaldi, SKAO 
