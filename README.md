@@ -77,7 +77,7 @@ Interactive mybinder link to execute the python notebooks:
 
 or follow this [link](https://mybinder.org/v2/gh/spsrc/somachine2021/master?urlpath=lab/tree/tutorials/index.ipynb)
 
-[myBinder.org](myBinder.org) is a free and open organization providing free cloud resources. Therefore, the resources may be limited and the changes you make in the notebooks or the system are not persistent. Please, always keep a local copy of any file you want to keep, because Binder will automatically eliminate the virtual machine assigned to you after some time of inactivity.
+[myBinder.org](https://mybinder.org) is a free and open organization providing free cloud resources. Therefore, the resources may be limited and the changes you make in the notebooks or the system are not persistent. Please, always keep a local copy of any file you want to keep, because Binder will automatically eliminate the virtual machine assigned to you after some time of inactivity.
 
 ## Option 2. Execute notebook tutorials in the JupyterHub instance at IAA-CSIC
 
