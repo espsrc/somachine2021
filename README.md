@@ -30,10 +30,9 @@ The main web page of the school is [https://www.granadacongresos.com/somachine20
     - VM to be downloaded [link](https://drive.google.com/file/d/1RvOYHH58bNZZ_sbJ_s8xt7gNgkdHzAUr/view?usp=sharing) (password: `somachine20`) 
     - [Data](tutorials/tutorial_03_BD_spark/datasets.zip)
     - [Scala scripts](tutorials/tutorial_03_BD_spark/Scripts/)
-- **Tutorial 05: Practical DL with Keras: A Quick Glance** (Francisco Pérez, UGR)
-   - [Practical Deep Learning: A quick glance (pdf)](tutorials/tutorial_05_DL_keras/Practical%20Deep%20Learning_%20A%20quick%20glance.pdf)
-   - [Data preparation (notebook)](tutorials/tutorial_05_DL_keras/galaxy_data_preparation.ipynb)
-   - [Galaxy Classification (notebook)](tutorials/tutorial_05_DL_keras/galaxy_classification.ipynb)
+- **Tutorial 05: Practical DL: A Quick Glance** (Francisco Pérez, UGR)
+   - [Practical Deep Learning: A quick glance (pdf)](tutorials/tutorial_05_DL/Practical%20Deep%20Learning_%20A%20quick%20glance.pdf)
+   - [Galaxy Classification (notebook)](tutorials/tutorial_05_DL/Galaxy10.ipynb)
 
 ## Talks
 - [Placing AI and ML in Context - Jorge Casillas, UGR](talks/AI-Perspective-personal-F-HERRERA.pdf)
