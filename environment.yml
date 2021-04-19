@@ -3,6 +3,7 @@ channels:
  - conda-forge
  - defaults
 dependencies:
+  - jupyter=1.0.*
   - python=3.7.6
   - tensorflow=1.15.0
   - contextlib2=0.6.*
@@ -18,4 +19,9 @@ dependencies:
   - pandas=1.1.*
   - scikit-learn=0.22.*
   - libopencv=3.4.2
+  - imbalanced-learn=0.7.*
   - py-opencv=3.4.2
+  - requests=2.25.*
+  - pip:
+    - scikit-multilearn=0.2.*
+    - arff=0.9
