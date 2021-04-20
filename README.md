@@ -40,7 +40,7 @@ The main web page of the school is [https://www.granadacongresos.com/somachine20
 - Data Preprocessing in ML - Julián Luengo, UGR
 - Singular Problems in ML - Salvador García, UGR
 - ML in Astronomy: An Overview - Kyle Boone, University of Washington
-- Galaxy classification in surveys - Helena Domínguez Sánchez, ICE-CSIC
+- [Galaxy classification in surveys - Helena Domínguez Sánchez, ICE-CSIC](talks/galaxy_classification_DOMINGUEZ.pdf)
 - [Big Data: Foundations and Frameworks - Alberto Fernández, UGR](talks/big_data_foundations_frameworks_FERNANDEZ.pdf)
 - Big Data: Algorithms and Spark (Theoretical and Practical) - Diego García, UGR
 - BD in Astronomy: An Overview - Federica Bianco, University of Delaware
