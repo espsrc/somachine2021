@@ -36,7 +36,7 @@ The main web page of the school is [https://www.granadacongresos.com/somachine20
 
 ## Talks
 - [Placing AI and ML in Context - Jorge Casillas, UGR](talks/AI-Perspective-personal-F-HERRERA.pdf)
-- [Theoretical Foundations of ML: Classical Problems, Algorithms and Validation - Julián Luengo, UGR](talks/theoretical_foundations_ML_GARCIA.pdf)
+- [Theoretical Foundations of ML: Classical Problems, Algorithms and Validation - Julián Luengo, UGR](talks/ML_Basics_LUENGO.pdf)
 - [Data Preprocessing in ML - Julián Luengo, UGR](talks/data_preprocessing_ML_LUENGO.pdf)
 - [Singular Problems in ML - Salvador García, UGR](talks/singular_problems_ML_GARCIA.pdf)
 - ML in Astronomy: An Overview - Kyle Boone, University of Washington
