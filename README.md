@@ -40,6 +40,13 @@ The main web page of the school is [https://www.granadacongresos.com/somachine20
 - [Data Preprocessing in ML - Julián Luengo, UGR](talks/ML_Data_preprocessing_LUENGO.pdf)
 - Singular Problems in ML - Salvador García, UGR
 - ML in Astronomy: An Overview - Kyle Boone, University of Washington
+    - Normalizing flows for the HR diagram
+       - [Paper](https://ui.adsabs.harvard.edu/abs/2019arXiv190808045C/abstract)
+       - [Notebook that was used to generate the plots in the talk](https://github.com/AstroHackWeek/AstroHackWeek2020/blob/master/hacks/smoothflows/isochrone_nflows.ipynb)
+    - Examples of autoencoder applications
+       - [Classification of light curves](https://ui.adsabs.harvard.edu/abs/2020ApJ...905...94V/abstract)
+       - [Generative models of galaxies](https://ui.adsabs.harvard.edu/abs/2016arXiv160905796R/abstract)
+       - [Deblending galaxies](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500..531A/abstract)
 - [Galaxy classification in surveys - Helena Domínguez Sánchez, ICE-CSIC](talks/galaxy_classification_DOMINGUEZ.pdf)
 - [Big Data: Foundations and Frameworks - Alberto Fernández, UGR](talks/big_data_foundations_frameworks_FERNANDEZ.pdf)
 - Big Data: Algorithms and Spark (Theoretical and Practical) - Diego García, UGR
