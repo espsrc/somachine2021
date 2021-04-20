@@ -35,27 +35,27 @@ The main web page of the school is [https://www.granadacongresos.com/somachine20
    - [Galaxy Classification (notebook)](tutorials/tutorial_05_DL/Galaxy10.ipynb)
 
 ## Talks
-- [Placing AI and ML in Context - Jorge Casillas, UGR](talks/AI-Perspective-personal-F-HERRERA.pdf)
+- Placing AI and ML in Context - Jorge Casillas, UGR
 - [Theoretical Foundations of ML: Classical Problems, Algorithms and Validation - Julián Luengo, UGR](talks/ML_Basics_LUENGO.pdf)
-- [Data Preprocessing in ML - Julián Luengo, UGR](talks/data_preprocessing_ML_LUENGO.pdf)
-- [Singular Problems in ML - Salvador García, UGR](talks/singular_problems_ML_GARCIA.pdf)
+- Data Preprocessing in ML - Julián Luengo, UGR
+- Singular Problems in ML - Salvador García, UGR
 - ML in Astronomy: An Overview - Kyle Boone, University of Washington
 - Galaxy classification in surveys - Helena Domínguez Sánchez, ICE-CSIC
 - [Big Data: Foundations and Frameworks - Alberto Fernández, UGR](talks/big_data_foundations_frameworks_FERNANDEZ.pdf)
-- [Big Data: Algorithms and Spark (Theoretical and Practical) - Diego García, UGR](talks/big_data_apache_spark_GARCIA.pdf)
-- [BD in Astronomy: An Overview - Federica Bianco, University of Delaware](talks/big_data_in_astronomy_BIANCO.pdf)
-- [Vera C. Rubin Observatory: A Big Data Machine for the 21st Century - Meredith Rawls, Vera Rubin Observatory](talks/Vera_Rubin_observatory_Mullane.pdf) - [or on google ](https://docs.google.com/presentation/d/1v5Q57hiT0GZh_hSJ1m8T75QeDq1NhMZj00byOXKu23s/edit?usp=sharing)
-- [Theoretical Foundations of DL and CNNs - Anabel Gómez, UGR](talks/deep_learning_convolutional_networks_GOMEZ.pdf)
-- [Autoencoders: An Overview and Applications - David Charte, UGR](talks/autoencoders_overview_applications_CHARTE.pdf)
-- [Successful case studies of DL - Siham Tabik, UGR](talks/successful_case_studies_DL_TABIK.pdf)
-- [An Overview of Deep Learning in Astronomy - Ashish Mahabal, Caltech](talks/deep_learning_astronomy_MAHABAL.pdf)
+- Big Data: Algorithms and Spark (Theoretical and Practical) - Diego García, UGR
+- BD in Astronomy: An Overview - Federica Bianco, University of Delaware
+- Vera C. Rubin Observatory: A Big Data Machine for the 21st Century - Meredith Rawls, Vera Rubin Observatory
+- Theoretical Foundations of DL and CNNs - Anabel Gómez, UGR
+- Autoencoders: An Overview and Applications - David Charte, UGR
+- Successful case studies of DL - Siham Tabik, UGR
+- An Overview of Deep Learning in Astronomy - Ashish Mahabal, Caltech
 - Emulators and their application to supernova data	- Wolfgang Kerzendorf, Michigan State University
-- [The SKA Telescope Data Deluge - Javier Moldón, IAA](talks/ska_data_deluge_MOLDON.pdf)
+- The SKA Telescope Data Deluge - Javier Moldón, IAA
 - The SKA Telescope Data Challenges - Anna Bonaldi, SKAO 
 - Applications of unsupervised learning to astronomical datasets - Dalya Baron, Tel Aviv University
 - Deep Learning and Image Reconstruction - Andrés Asensio, IAC
 
-Recordings of the talks will be available. 
+Recordings of the talks will be available. Some of the talks are the same or very similar to the ones from [somachine2020](https://github.com/spsrc/somachine2020#talks)
 
 # Execution of the tutorials
 
