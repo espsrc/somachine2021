@@ -39,7 +39,7 @@ The main web page of the school is [https://www.granadacongresos.com/somachine20
 - [Theoretical Foundations of ML: Classical Problems, Algorithms and Validation - Julián Luengo, UGR](talks/ML_Basics_LUENGO.pdf)
 - [Data Preprocessing in ML - Julián Luengo, UGR](talks/ML_Data_preprocessing_LUENGO.pdf)
 - Singular Problems in ML - Salvador García, UGR
-- ML in Astronomy: An Overview - Kyle Boone, University of Washington
+- [ML in Astronomy: An Overview - Kyle Boone, University of Washington](talks/ML_in_astronomy_BOONE.pdf)
     - Normalizing flows for the HR diagram
        - [Paper](https://ui.adsabs.harvard.edu/abs/2019arXiv190808045C/abstract)
        - [Notebook that was used to generate the plots in the talk](https://github.com/AstroHackWeek/AstroHackWeek2020/blob/master/hacks/smoothflows/isochrone_nflows.ipynb)
