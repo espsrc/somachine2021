@@ -62,7 +62,7 @@ The main web page of the school is [https://www.granadacongresos.com/somachine20
 - Applications of unsupervised learning to astronomical datasets - Dalya Baron, Tel Aviv University
 - Deep Learning and Image Reconstruction - Andrés Asensio, IAC
 
-Recordings of the talks are available at http://u.pc.cd/ybT. Some of the talks are the same or very similar to the ones from [somachine2020](https://github.com/spsrc/somachine2020#talks)
+Recordings of the talks are available at http://u.pc.cd/ybT. Some of the talks are the same or very similar to the ones from the previous edition [somachine2020](https://github.com/spsrc/somachine2020#talks)
 
 # Execution of the tutorials
 
