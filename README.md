@@ -51,7 +51,7 @@ The main web page of the school is [https://www.granadacongresos.com/somachine20
 - [Big Data: Foundations and Frameworks - Alberto Fernández, UGR](talks/big_data_foundations_frameworks_FERNANDEZ.pdf)
 - Big Data: Algorithms and Spark (Theoretical and Practical) - Diego García, UGR
 - BD in Astronomy: An Overview - Federica Bianco, University of Delaware
-- Vera C. Rubin Observatory: A Big Data Machine for the 21st Century - Meredith Rawls, Vera Rubin Observatory
+- [Vera C. Rubin Observatory: A Big Data Machine for the 21st Century - Meredith Rawls, Vera Rubin Observatory](Rubin_Data_RAWLS.pdf)
 - Theoretical Foundations of DL and CNNs - Anabel Gómez, UGR
 - Autoencoders: An Overview and Applications - David Charte, UGR
 - Successful case studies of DL - Siham Tabik, UGR
@@ -62,7 +62,7 @@ The main web page of the school is [https://www.granadacongresos.com/somachine20
 - Applications of unsupervised learning to astronomical datasets - Dalya Baron, Tel Aviv University
 - Deep Learning and Image Reconstruction - Andrés Asensio, IAC
 
-Recordings of the talks will be available. Some of the talks are the same or very similar to the ones from [somachine2020](https://github.com/spsrc/somachine2020#talks)
+Recordings of the talks are available at http://u.pc.cd/ybT. Some of the talks are the same or very similar to the ones from [somachine2020](https://github.com/spsrc/somachine2020#talks)
 
 # Execution of the tutorials
 
