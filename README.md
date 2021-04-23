@@ -57,7 +57,7 @@ The main web page of the school is [https://www.granadacongresos.com/somachine20
 - [Successful case studies of DL - Siham Tabik, UGR](talks/CaseStudies_ML_TABIK.pdf)
 - An Overview of Deep Learning in Astronomy - Ashish Mahabal, Caltech
 - Emulators and their application to supernova data	- Wolfgang Kerzendorf, Michigan State University
-- The SKA Telescope Data Deluge - Javier Moldón, IAA
+- [The SKA Telescope Data Deluge - Javier Moldón, IAA](talks/SKA_data_deluge_MOLDON.pdf)
 - The SKA Telescope Data Challenges - Anna Bonaldi, SKAO 
 - Applications of unsupervised learning to astronomical datasets - Dalya Baron, Tel Aviv University
 - Deep Learning and Image Reconstruction - Andrés Asensio, IAC
