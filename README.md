@@ -50,7 +50,7 @@ The main web page of the school is [https://www.granadacongresos.com/somachine20
 - [Galaxy classification in surveys - Helena Domínguez Sánchez, ICE-CSIC](talks/galaxy_classification_DOMINGUEZ.pdf)
 - [Big Data: Foundations and Frameworks - Alberto Fernández, UGR](talks/big_data_foundations_frameworks_FERNANDEZ.pdf)
 - [Big Data: Algorithms and Spark (Theoretical and Practical) - Diego García, UGR](talks/BD_Spark_GARCIA.pdf)
-- BD in Astronomy: An Overview - Federica Bianco, University of Delaware
+- [BD in Astronomy: An Overview - Federica Bianco, University of Delaware](talks/BD_overview_BIANCO.pdf)
 - [Vera C. Rubin Observatory: A Big Data Machine for the 21st Century - Meredith Rawls, Vera Rubin Observatory](talks/Rubin_Data_RAWLS.pdf)
 - [Theoretical Foundations of DL and CNNs - Anabel Gómez, UGR](talks/DL_CNNs_GOMEZ.pdf)
 - [Autoencoders: An Overview and Applications - David Charte, UGR](talks/autoencoders_CHARTE.pdf)
