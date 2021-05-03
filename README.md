@@ -59,7 +59,7 @@ The main web page of the school is [https://www.granadacongresos.com/somachine20
 - Emulators and their application to supernova data	- Wolfgang Kerzendorf, Michigan State University
 - [The SKA Telescope Data Deluge - Javier Moldón, IAA](talks/SKA_data_deluge_MOLDON.pdf)
 - The SKA Telescope Data Challenges - Anna Bonaldi, SKAO 
-- Applications of unsupervised learning to astronomical datasets - Dalya Baron, Tel Aviv University
+- [Applications of unsupervised learning to astronomical datasets - Dalya Baron, Tel Aviv University](talks/unsupervised_learning_BARON.pdf)
 - [Deep Learning and Image Reconstruction - Andrés Asensio, IAC](talks/DL_ASENSIO.pdf)
 
 Recordings of the talks are available at http://u.pc.cd/ybT. Some of the talks are the same or very similar to the ones from the previous edition [somachine2020](https://github.com/spsrc/somachine2020#talks)
